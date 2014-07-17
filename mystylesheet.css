@@ -1,0 +1,66 @@
+
+body{
+	background-repeat:no-repeat;
+	background-color: black;
+	color:white;
+}
+
+#banner img{
+	width: auto;
+	height: 630px;
+}
+
+
+iframe{
+
+
+}
+
+#social{
+position: absolute;
+top: 10px;
+left: 70.8%;
+}
+
+#social img{
+margin: 5px;
+width: 53px;
+height: 45px;
+}
+
+.shy{
+
+font-family: 'Oswald', sans-serif;
+font-size: 65px;
+font-color: White;
+}
+
+.bio {
+font-family: 'Source Sans Pro', sans-serif;
+position:absolute;
+left:58%;
+top:127px;
+width: 500px;
+color: White;
+}
+
+h2 {
+font-family: 'Oswald', sans-serif;
+font-Size: 27.19px;
+position: Absolute;
+top: 55px;
+left:1%;
+}
+
+
+
+.content{
+position:absolute;
+top: 16%;
+left: 57%;
+width: 530px;
+height: 150px;
+background-color: blue;
+z-index:-1;
+opacity:0.3;}
+
