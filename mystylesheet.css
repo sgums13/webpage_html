@@ -2,7 +2,12 @@
 body{
 	background-repeat:no-repeat;
 	background-color: black;
-	color:white;
+	color: white;
+	font-family: 'Oswald', sans-serif;
+}
+
+h2, h1{
+	margin: 0;
 }
 
 #banner img{
@@ -12,55 +17,60 @@ body{
 
 
 iframe{
-
-
-}
-
-#social{
-position: absolute;
-top: 10px;
-left: 70.8%;
-}
-
-#social img{
-margin: 5px;
-width: 53px;
-height: 45px;
+	opacity: 50%;
 }
 
 .shy{
-
-font-family: 'Oswald', sans-serif;
-font-size: 65px;
-font-color: White;
+	font-family: 'Oswald', sans-serif;
+	font-size: 65px;
+	font-color: White;
 }
 
-.bio {
-font-family: 'Source Sans Pro', sans-serif;
-position:absolute;
-left:58%;
-top:127px;
-width: 500px;
-color: White;
+
+
+/*#social{
+	position: absolute;
+	top: 10px;
+	left: 70.8%;
+}
+
+#social img{
+	margin: 5px;
+	width: 53px;
+	height: 45px;
+}
+*/
+
+
+
+
+/*.bio {
+	font-family: 'Source Sans Pro', sans-serif;
+	position:absolute;
+	left:58%;
+	top:127px;
+	width: 500px;
+	color: White;
 }
 
 h2 {
-font-family: 'Oswald', sans-serif;
-font-Size: 27.19px;
-position: Absolute;
-top: 55px;
-left:1%;
+	font-family: 'Oswald', sans-serif;
+	font-Size: 27.19px;
+	position: Absolute;
+	top: 55px;
+	left:1%;
 }
 
 
 
 .content{
-position:absolute;
-top: 16%;
-left: 57%;
-width: 530px;
-height: 150px;
-background-color: blue;
-z-index:-1;
-opacity:0.3;}
+	position:absolute;
+	top: 16%;
+	left: 57%;
+	width: 530px;
+	height: 150px;
+	background-color: blue;
+	z-index:-1;
+	opacity:0.3;}
 
+*/
