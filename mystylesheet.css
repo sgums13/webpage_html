@@ -17,7 +17,7 @@ h2, h1{
 
 
 iframe{
-	opacity: 50%;
+	opacity: 80px;
 }
 
 .shy{
@@ -26,7 +26,18 @@ iframe{
 	font-color: White;
 }
 
+.nav li{
+	float: left;
+	width: 20%;
+	top: 30px;
+	border-top: 2px solid #000cff;
+	border-bottom: 2px solid #000cff;
+	font-size: 25px;
+}
 
+li:hover{
+		color: #B2B2B2;
+	}
 
 /*#social{
 	position: absolute;
@@ -40,7 +51,7 @@ iframe{
 	height: 45px;
 }
 */
-
+/*#
 
 
 
