@@ -29,16 +29,19 @@ iframe{
 .nav li{
 	float: left;
 	width: 20%;
-	top: 30px;
+	margin-top: 30px;
 	border-top: 2px solid #000cff;
 	border-bottom: 2px solid #000cff;
 	font-size: 25px;
 }
 
 li:hover{
-		color: #B2B2B2;
-	}
+	color: #B2B2B2;
+}
 
+#bio p{
+	font-size: 18px;
+}
 /*#social{
 	position: absolute;
 	top: 10px;
